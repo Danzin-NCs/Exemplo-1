@@ -29,4 +29,8 @@ Atualização de base de dados
 ##
 
 Prévia
+<img width="953" height="605" alt="Captura de tela 2025-09-12 112802" src="https://github.com/user-attachments/assets/8b6480b7-2c30-4cff-a368-748658b296af" />
+
+<img width="1427" height="612" alt="Captura de tela 2025-09-12 112725" src="https://github.com/user-attachments/assets/9a981017-0c9b-499f-892f-2169f155ec59" />
+
 
