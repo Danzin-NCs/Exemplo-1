@@ -10,7 +10,7 @@ Como usar\
 Origem dos arquivos\
 Requsitos\
 Licença\
-Contato\
+Contato
 ##
 
 Sobre o projeto
