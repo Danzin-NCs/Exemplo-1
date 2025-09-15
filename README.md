@@ -2,15 +2,15 @@
 
 Índice
 
-Sobre o projeto
-Funcionalidades
-Prévia
-Estrutura dos arquivos
-Como usar
-Origem dos arquivos
-Requsitos 
-Licença
-Contato
+##Sobre o projeto
+##Funcionalidades
+##Prévia
+##Estrutura dos arquivos
+##Como usar
+##Origem dos arquivos
+##Requsitos 
+##Licença
+##Contato
 
 ##
 
